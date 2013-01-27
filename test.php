@@ -44,10 +44,10 @@ if (!class_exists('webdav_client')) {
 } 
 
 $wdc = new webdav_client();
-$wdc->set_server('demo.webdav.ch');
-$wdc->set_port(80);
-$wdc->set_user('demo@xwave.ch');
-$wdc->set_pass('demodemo');
+$wdc->set_server('ssl://webdav.yandex.ru');
+$wdc->set_port(443);
+$wdc->set_user('user');
+$wdc->set_pass('password');
 // use HTTP/1.1
 $wdc->set_protocol(1);
 // enable debugging
