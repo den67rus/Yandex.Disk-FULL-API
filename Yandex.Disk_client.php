@@ -1,18 +1,18 @@
 <?php
 /*
- CVS:
-  $Id: Yandex.Disk_client.php,v 2.0
-  $Author: Sevostyanov Denis (den007@smol-hub.net)
-  $Date: 2013/01/26
-  $Revision: 2.0
-  $Description: The class is optimized for Yandeks.Disk
+ * CVS:
+ * $Id: Yandex.Disk_client.php,v 2.0
+ * $Author: Sevostyanov Denis (den007@smol-hub.net)
+ * $Date: 2013/01/26
+ * $Revision: 2.0
+ * $Description: The class is optimized for Yandeks.Disk
 */
 /*
- CVS:
-  $Id: class_webdav_client.php,v 1.7 2004/08/18 14:12:40 chris Exp $
-  $Author: chris $
-  $Date: 2004/08/18 14:12:40 $
-  $Revision: 1.7 $
+ * CVS:
+ * $Id: class_webdav_client.php,v 1.7 2004/08/18 14:12:40 chris Exp $
+ * $Author: chris $
+ * $Date: 2004/08/18 14:12:40 $
+ * $Revision: 1.7 $
 */
 /**
  * webdav_client v0.1.3, a php based webdav client class.
