@@ -1,12 +1,12 @@
 <?php
-/*
- CVS:
-  $Id: test.php,v 2.0
-  $Author: Sevostyanov Denis (den007@smol-hub.net)
-  $Date: 2013/01/26
-  $Revision: 2.0
-  $Description: Examples for use with Yandeks.Disk, http://api.yandex.ru/disk/
-*/
+/**
+ * CVS:
+ * $Id: test.php,v 2.0
+ * $Author: Sevostyanov Denis (den007@smol-hub.net)
+ * $Date: 2013/01/26
+ * $Revision: 2.0
+ * $Description: Examples for use with Yandeks.Disk, http://api.yandex.ru/disk/
+ */
 /**
  * test.php; mininimalistic class webdav_client testing script.
  *
